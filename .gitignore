@@ -1,0 +1,13 @@
+venv/
+
+*.exe
+
+# Windows Installer files
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
+
+
+lib/
